@@ -1,4 +1,4 @@
-# Recaptcha-Bot
+## Recaptcha-Bot
 A reCAPTCHA bypassing software in python 
 
 # !NOTICE 
@@ -7,7 +7,7 @@ I am not responsible for any misuse of this software. The use of this recaptcha 
 ## Description:
 A modern software program soloution to accurately and authentically mimic mouse motions that resemble those of a person. By replicating the complex relationships and variations found in natural human cursor control.
 
-# Requirements:
+## Requirements:
 
 ```bash
 $ pip install pyautogui
