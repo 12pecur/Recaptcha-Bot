@@ -8,6 +8,3 @@ I am not responsible for any misuse of this software. The use of this recaptcha 
 
 ```bash
 $ pip install pyautogui
-$ pip install time
-$ pip install webbrowser
-$ pip install math
